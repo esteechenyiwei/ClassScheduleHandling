@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+PRODID:1580079305818
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200120T103000
+DTEND:20200120T120000
+SUMMARY:BEPP250002
+DESCRIPTION:This course will introduce you to "managerial economics" whic
+ h is the application of microeconomic theory to managerial decision-maki
+ ng. Microeconomic theory is a remarkably useful body of ideas for unders
+ tanding and analyzing the behavior of individuals and firms in a variety
+  of economic settings. The goal of the course is for you to understand t
+ his body of theory well enough so that you can effectively analyze manag
+ erial (and other) problems in an economic framework. While this is a "to
+ ols" course\, we will cover many real-world applications\, particularly 
+ business applications\, so that you can witness the usefulness of these 
+ tools and acquire the skills to use them yourself. We will depart from t
+ he usual microeconomic theory course by giving more emphasis to prescrip
+ tion: What should a manager do in order to achieve some objective? That 
+ course deliverable is to compare with description: Why do firms and cons
+ umers act the way they do? The latter will still be quite prominent in t
+ his course because only by understanding how other firms and customers b
+ ehave can a manager determine what is beswt for him or her to do. Strate
+ gic interaction is explored both in product markets and auctions. Finall
+ y\, the challenges created by asymmetric information - both in the marke
+ t and within the firm - are investigated.
+LOCATION:SHDH 107
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200126T225505Z-1580079305819@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200115T103000
+DTEND:20200115T120000
+SUMMARY:BEPP250002
+DESCRIPTION:This course will introduce you to "managerial economics" whic
+ h is the application of microeconomic theory to managerial decision-maki
+ ng. Microeconomic theory is a remarkably useful body of ideas for unders
+ tanding and analyzing the behavior of individuals and firms in a variety
+  of economic settings. The goal of the course is for you to understand t
+ his body of theory well enough so that you can effectively analyze manag
+ erial (and other) problems in an economic framework. While this is a "to
+ ols" course\, we will cover many real-world applications\, particularly 
+ business applications\, so that you can witness the usefulness of these 
+ tools and acquire the skills to use them yourself. We will depart from t
+ he usual microeconomic theory course by giving more emphasis to prescrip
+ tion: What should a manager do in order to achieve some objective? That 
+ course deliverable is to compare with description: Why do firms and cons
+ umers act the way they do? The latter will still be quite prominent in t
+ his course because only by understanding how other firms and customers b
+ ehave can a manager determine what is beswt for him or her to do. Strate
+ gic interaction is explored both in product markets and auctions. Finall
+ y\, the challenges created by asymmetric information - both in the marke
+ t and within the firm - are investigated.
+LOCATION:SHDH 107
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200126T225506Z-1580079305827@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200117T120000
+DTEND:20200117T130000
+SUMMARY:BEPP250208
+DESCRIPTION:This course will introduce you to "managerial economics" whic
+ h is the application of microeconomic theory to managerial decision-maki
+ ng. Microeconomic theory is a remarkably useful body of ideas for unders
+ tanding and analyzing the behavior of individuals and firms in a variety
+  of economic settings. The goal of the course is for you to understand t
+ his body of theory well enough so that you can effectively analyze manag
+ erial (and other) problems in an economic framework. While this is a "to
+ ols" course\, we will cover many real-world applications\, particularly 
+ business applications\, so that you can witness the usefulness of these 
+ tools and acquire the skills to use them yourself. We will depart from t
+ he usual microeconomic theory course by giving more emphasis to prescrip
+ tion: What should a manager do in order to achieve some objective? That 
+ course deliverable is to compare with description: Why do firms and cons
+ umers act the way they do? The latter will still be quite prominent in t
+ his course because only by understanding how other firms and customers b
+ ehave can a manager determine what is beswt for him or her to do. Strate
+ gic interaction is explored both in product markets and auctions. Finall
+ y\, the challenges created by asymmetric information - both in the marke
+ t and within the firm - are investigated.
+LOCATION:SHDH 105
+RRULE:FREQ=WEEKLY;WKST=FR;INTERVAL=1;UNTIL=20200429;BYDAY=FR
+UID:20200126T225507Z-1580079305828@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200120T150000
+DTEND:20200120T163000
+SUMMARY:CIS 320001
+DESCRIPTION:How do you optimally encode a text file? How do you find shor
+ test paths in a map? How do you design a communication network? How do y
+ ou route data in a network? What are the limits of efficient computation
+ ? This course gives a comprehensive introduction to design and analysis 
+ of algorithms\, and answers along the way to these and many other intere
+ sting computational questions. You will learn about problem-solving\; ad
+ vanced data structures such as universal hashing and red-black trees\; a
+ dvanced design and analysis techniques such as dynamic programming and a
+ mortized analysis\; graph algorithms such as minimum spanning trees and 
+ network flows\; NP-completeness theory\; and approximation algorithms.
+LOCATION:TOWN 100
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200126T225508Z-1580079305829@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200115T150000
+DTEND:20200115T163000
+SUMMARY:CIS 320001
+DESCRIPTION:How do you optimally encode a text file? How do you find shor
+ test paths in a map? How do you design a communication network? How do y
+ ou route data in a network? What are the limits of efficient computation
+ ? This course gives a comprehensive introduction to design and analysis 
+ of algorithms\, and answers along the way to these and many other intere
+ sting computational questions. You will learn about problem-solving\; ad
+ vanced data structures such as universal hashing and red-black trees\; a
+ dvanced design and analysis techniques such as dynamic programming and a
+ mortized analysis\; graph algorithms such as minimum spanning trees and 
+ network flows\; NP-completeness theory\; and approximation algorithms.
+LOCATION:TOWN 100
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200126T225509Z-1580079305830@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200121T150000
+DTEND:20200121T163000
+SUMMARY:CIS 350001
+DESCRIPTION:You know how to write a "program". But how do you create a so
+ ftware "product" as part of a team\, with customers that have expectatio
+ ns of functionality and quality? This course introduces students to vari
+ ous tools (source control\, automated build systems\, programming enviro
+ nments\, test automation\, etc.) and processes (design\, implementation\
+ , testing\, and maintenance) that are used by professionals in the field
+  of software engineering. Topics will include: software development life
+ cycle\; agile and test-driven development\; source control and continuou
+ s integration\; requirements analysis\; object-oriented design and testa
+ bility\; mobile and/or web application development\; software testing\; 
+ refactoring \; and software quality metrics.
+LOCATION:MEYH B1
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200126T225510Z-1580079305830@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200116T150000
+DTEND:20200116T163000
+SUMMARY:CIS 350001
+DESCRIPTION:You know how to write a "program". But how do you create a so
+ ftware "product" as part of a team\, with customers that have expectatio
+ ns of functionality and quality? This course introduces students to vari
+ ous tools (source control\, automated build systems\, programming enviro
+ nments\, test automation\, etc.) and processes (design\, implementation\
+ , testing\, and maintenance) that are used by professionals in the field
+  of software engineering. Topics will include: software development life
+ cycle\; agile and test-driven development\; source control and continuou
+ s integration\; requirements analysis\; object-oriented design and testa
+ bility\; mobile and/or web application development\; software testing\; 
+ refactoring \; and software quality metrics.
+LOCATION:MEYH B1
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200126T225511Z-1580079305831@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200121T173000
+DTEND:20200121T203000
+SUMMARY:ENGL104601
+DESCRIPTION:This is an introduction to literary study through a survey of
+  works from a specific historical period. Some versions will begin with 
+ traditional stories or poems\, including a sampling of works in translat
+ ion. Others will focus exclusively on modern and contemporary American s
+ hort fiction or poetry. This course is designed or the General Requireme
+ nt\, and is ideal for students wishing to take an English course but not
+  necessarily intending to major. See the English Department's website at
+  www.english.upenn.edu for a description of the current offerings.
+LOCATION:BENN 244
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200126T225512Z-1580079305832@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200120T133000
+DTEND:20200120T150000
+SUMMARY:MGMT237001
+DESCRIPTION:The course is designed to meet the needs of the future manage
+ rs\, entrepreneurs\, consultants and investors who must analyze and deve
+ lop business strategies in technology-based industries. The emphasis is 
+ on learning conceptual models and frameworks to help navigate the comple
+ xity and dynamism in such industries. This is not a course in new produc
+ t development or in using information technology to improve business pro
+ cesses and offerings. We will take a perspective of both established and
+  emerging firms competing through technological innovations\, and study 
+ the key strategic drivers of value creation and appropriation in the con
+ text of business ecosystems.
+LOCATION:JMHH F55
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200521;BYDAY=MO
+UID:20200126T225513Z-1580079305833@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200115T133000
+DTEND:20200115T150000
+SUMMARY:MGMT237001
+DESCRIPTION:The course is designed to meet the needs of the future manage
+ rs\, entrepreneurs\, consultants and investors who must analyze and deve
+ lop business strategies in technology-based industries. The emphasis is 
+ on learning conceptual models and frameworks to help navigate the comple
+ xity and dynamism in such industries. This is not a course in new produc
+ t development or in using information technology to improve business pro
+ cesses and offerings. We will take a perspective of both established and
+  emerging firms competing through technological innovations\, and study 
+ the key strategic drivers of value creation and appropriation in the con
+ text of business ecosystems.
+LOCATION:JMHH F55
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200521;BYDAY=WE
+UID:20200126T225514Z-1580079305834@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200121T103000
+DTEND:20200121T120000
+SUMMARY:STAT431001
+DESCRIPTION:Graphical displays\; one- and two-sample confidence intervals
+ \; one- and two-sample hypothesis tests\; one- and two-way ANOVA\; simpl
+ e and multiple linear least-squares regression\; nonlinear regression\; 
+ variable selection\; logistic regression\; categorical data analysis\; g
+ oodness-of-fit tests. A methodology course. This course does not have bu
+ siness applications but has significant overlap with STAT 101 and 102.
+LOCATION:JMHH F45
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200126T225515Z-1580079305834@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200116T103000
+DTEND:20200116T120000
+SUMMARY:STAT431001
+DESCRIPTION:Graphical displays\; one- and two-sample confidence intervals
+ \; one- and two-sample hypothesis tests\; one- and two-way ANOVA\; simpl
+ e and multiple linear least-squares regression\; nonlinear regression\; 
+ variable selection\; logistic regression\; categorical data analysis\; g
+ oodness-of-fit tests. A methodology course. This course does not have bu
+ siness applications but has significant overlap with STAT 101 and 102.
+LOCATION:JMHH F45
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200126T225516Z-1580079305835@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T225505Z
+DTSTART:20200121T120000
+DTEND:20200121T133000
+SUMMARY:WH  201018
+DESCRIPTION:The objective of WH 201 is to prepare you to communicate effe
+ ctively as you pursue your educational\, professional\, and personal goa
+ ls over the next few years. We have incorporated input from employers\, 
+ employees\, alumni and past WH 201 students to create a course that will
+  prepare you to succeed at all types of communication: spoken and writte
+ n\, formal and informal\, prepared and spontaneous. Communication is a s
+ kill that requires repeated practice to master. The class size is limite
+ d to eight students to allow you the opportunity to practice communicati
+ ng every week. Class will meet for 80 minutes once a week for fourteen w
+ eeks. Please note that we are piloting different approaches to teaching 
+ this year in different sections of the course. The logistical details of
+  some sections may differ from others\, but everyone will be taught the 
+ same material and complete the same assignments.
+LOCATION:SHDH 206
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200126T225517Z-1580079305836@fe80:0:0:0:250:56ff:feb4:e3c%2
+END:VEVENT
+END:VCALENDAR

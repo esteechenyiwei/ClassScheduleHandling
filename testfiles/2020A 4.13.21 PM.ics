@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+PRODID:1580003480590
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200121T150000
+DTEND:20200121T163000
+SUMMARY:CIS 350001
+DESCRIPTION:You know how to write a "program". But how do you create a so
+ ftware "product" as part of a team\, with customers that have expectatio
+ ns of functionality and quality? This course introduces students to vari
+ ous tools (source control\, automated build systems\, programming enviro
+ nments\, test automation\, etc.) and processes (design\, implementation\
+ , testing\, and maintenance) that are used by professionals in the field
+  of software engineering. Topics will include: software development life
+ cycle\; agile and test-driven development\; source control and continuou
+ s integration\; requirements analysis\; object-oriented design and testa
+ bility\; mobile and/or web application development\; software testing\; 
+ refactoring \; and software quality metrics.
+LOCATION:MEYH B1
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200126T015120Z-1580003480591@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200116T150000
+DTEND:20200116T163000
+SUMMARY:CIS 350001
+DESCRIPTION:You know how to write a "program". But how do you create a so
+ ftware "product" as part of a team\, with customers that have expectatio
+ ns of functionality and quality? This course introduces students to vari
+ ous tools (source control\, automated build systems\, programming enviro
+ nments\, test automation\, etc.) and processes (design\, implementation\
+ , testing\, and maintenance) that are used by professionals in the field
+  of software engineering. Topics will include: software development life
+ cycle\; agile and test-driven development\; source control and continuou
+ s integration\; requirements analysis\; object-oriented design and testa
+ bility\; mobile and/or web application development\; software testing\; 
+ refactoring \; and software quality metrics.
+LOCATION:MEYH B1
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200126T015121Z-1580003480594@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200121T103000
+DTEND:20200121T120000
+SUMMARY:CIS 520001
+DESCRIPTION:This course covers the foundations of statistical machine lea
+ rning. The focus is on probabilistic and statistical methods for predict
+ ion and clustering in high dimensions. Topics covered include linear and
+  logistic regression\, SVMs\, PCA and dimensionality reduction\, EM and 
+ HMMs\, and deep learning.
+LOCATION:SKIR AUD
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200126T015122Z-1580003480595@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200116T103000
+DTEND:20200116T120000
+SUMMARY:CIS 520001
+DESCRIPTION:This course covers the foundations of statistical machine lea
+ rning. The focus is on probabilistic and statistical methods for predict
+ ion and clustering in high dimensions. Topics covered include linear and
+  logistic regression\, SVMs\, PCA and dimensionality reduction\, EM and 
+ HMMs\, and deep learning.
+LOCATION:SKIR AUD
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200126T015123Z-1580003480597@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200120T120000
+DTEND:20200120T133000
+SUMMARY:CIS 545001
+DESCRIPTION:
+LOCATION:TOWN 100
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200126T015124Z-1580003480598@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200115T120000
+DTEND:20200115T133000
+SUMMARY:CIS 545001
+DESCRIPTION:
+LOCATION:TOWN 100
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200126T015125Z-1580003480598@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200117T133000
+DTEND:20200117T150000
+SUMMARY:CIS 545201
+DESCRIPTION:
+LOCATION:TOWN 100
+RRULE:FREQ=WEEKLY;WKST=FR;INTERVAL=1;UNTIL=20200429;BYDAY=FR
+UID:20200126T015126Z-1580003480599@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200121T163000
+DTEND:20200121T180000
+SUMMARY:EAS 203001
+DESCRIPTION:In this course\, students will study the social\, political\,
+  environmental and economic context of engineering practice. Students wi
+ ll develop an analytical toolkit to identify and address ethical challen
+ ges and opportunities in the engineering profession\, including studies 
+ of risk and safety\, professional responsibility\, and global perspectiv
+ es. The course will begin with a foundation in the history of engineerin
+ g practice and major Western ethical and philosophical theories. Student
+ s will then apply this material to both historical case studies\, such a
+ s Bhopal\, the NASA Shuttle Program\, and Three Mile Island\, as well as
+  contemporary issues in big data\, artificial intelligence\, and diversi
+ ty within the profession. Students will consider how engineers\, as well
+  as governments\, the media\, and other stakeholders\, address such issu
+ es.
+LOCATION:TOWN 100
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200126T015127Z-1580003480600@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200116T163000
+DTEND:20200116T180000
+SUMMARY:EAS 203001
+DESCRIPTION:In this course\, students will study the social\, political\,
+  environmental and economic context of engineering practice. Students wi
+ ll develop an analytical toolkit to identify and address ethical challen
+ ges and opportunities in the engineering profession\, including studies 
+ of risk and safety\, professional responsibility\, and global perspectiv
+ es. The course will begin with a foundation in the history of engineerin
+ g practice and major Western ethical and philosophical theories. Student
+ s will then apply this material to both historical case studies\, such a
+ s Bhopal\, the NASA Shuttle Program\, and Three Mile Island\, as well as
+  contemporary issues in big data\, artificial intelligence\, and diversi
+ ty within the profession. Students will consider how engineers\, as well
+  as governments\, the media\, and other stakeholders\, address such issu
+ es.
+LOCATION:TOWN 100
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200126T015128Z-1580003480601@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200120T090000
+DTEND:20200120T103000
+SUMMARY:FNCE250001
+DESCRIPTION:This course covers the finance of technological innovation\, 
+ with a focus on the valuation tools useful in the venture capital indust
+ ry. These tools include the "venture capital method\," comparables analy
+ sis\, discounted cash flow analysis\, contingent-claims analysis. The pr
+ imary audience for this course is finance majors interested in careers i
+ n venture capital or in R&D-intensive companies in health care or inform
+ ation technology.
+LOCATION:JMHH F55
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200126T015129Z-1580003480602@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200115T090000
+DTEND:20200115T103000
+SUMMARY:FNCE250001
+DESCRIPTION:This course covers the finance of technological innovation\, 
+ with a focus on the valuation tools useful in the venture capital indust
+ ry. These tools include the "venture capital method\," comparables analy
+ sis\, discounted cash flow analysis\, contingent-claims analysis. The pr
+ imary audience for this course is finance majors interested in careers i
+ n venture capital or in R&D-intensive companies in health care or inform
+ ation technology.
+LOCATION:JMHH F55
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200126T015130Z-1580003480603@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200120T133000
+DTEND:20200120T150000
+SUMMARY:MGMT264001
+DESCRIPTION:This course focuses on venture capital management issues in t
+ he context of a high-growth potential start-up company. The course is mo
+ tivated by rapid increases in both the supply of and demand for private 
+ equity over the past two decades. The topic is addressed from two distin
+ ct perspectives: issues that relate to the demand for private equity and
+  venture capital (the entrepreneur's perspective) on the one hand\, and 
+ issues that relate to the supply of capital (the investor's perspective)
+  on the other. As well\, we will address management issues that relate t
+ o how the VC and the entrepreneur work together once an investment has b
+ een made\, compensation issues\, and governance issues in the privately 
+ held venture capital backed company. Format: Case/discussion format\, su
+ pplemented by lectures and guest speakers.
+LOCATION:SHDH 211
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200126T015131Z-1580003480604@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200115T133000
+DTEND:20200115T150000
+SUMMARY:MGMT264001
+DESCRIPTION:This course focuses on venture capital management issues in t
+ he context of a high-growth potential start-up company. The course is mo
+ tivated by rapid increases in both the supply of and demand for private 
+ equity over the past two decades. The topic is addressed from two distin
+ ct perspectives: issues that relate to the demand for private equity and
+  venture capital (the entrepreneur's perspective) on the one hand\, and 
+ issues that relate to the supply of capital (the investor's perspective)
+  on the other. As well\, we will address management issues that relate t
+ o how the VC and the entrepreneur work together once an investment has b
+ een made\, compensation issues\, and governance issues in the privately 
+ held venture capital backed company. Format: Case/discussion format\, su
+ pplemented by lectures and guest speakers.
+LOCATION:SHDH 211
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200126T015132Z-1580003480605@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200126T015120Z
+DTSTART:20200116T180000
+DTEND:20200116T193000
+SUMMARY:MUSC007010
+DESCRIPTION:Successful participation in a music department sponsored grou
+ p. Ensemble groups: University Orchestra\, University Wind Ensemble\, Ch
+ oral Society\, University Choir\, Ancient Voices\, Baroque and Recorder 
+ Ensemble\, Chamber Music Society\, Arab Music Ensemble\, Samba and Jazz 
+ Combo. This course must be taken for a letter grade (Pass/Fail registrat
+ ion option may not be utilized for this course). Prerequisite: Please co
+ ntact Ensemble Director if you are interested in taking Music 007 for cr
+ edit.
+LOCATION:LERN 101
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200126T015133Z-1580003480606@fe80:0:0:0:250:56ff:feb4:e34%2
+END:VEVENT
+END:VCALENDAR

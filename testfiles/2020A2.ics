@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+PRODID:1580088930776
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200120T163000
+DTEND:20200120T180000
+SUMMARY:FNCE100303
+DESCRIPTION:This course provides an introduction to the theory\, the meth
+ ods\, and the concerns of corporate finance. The concepts developed in F
+ NCE 100 form the foundation for all elective finance courses. The main t
+ opics include: 1) the time value of money and capital budgeting techniqu
+ es\; 2) uncertainty and the trade-off between risk and return\; 3) secur
+ ity market efficiency\; 4) optimal capital structure\, and 5) dividend p
+ olicy decisions. During the Fall semester there are honors sections of F
+ NCE 100 offered. The seats in the honors sections are awarded through an
+  application process. Please go to: https://fnce.wharton.upenn.edu/progr
+ ams/course-applications for additional information. Corporate Finance is
+  a Core course and must be taken for a grade.
+LOCATION:JMHH G92
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200127T013530Z-1580088930777@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200115T163000
+DTEND:20200115T180000
+SUMMARY:FNCE100303
+DESCRIPTION:This course provides an introduction to the theory\, the meth
+ ods\, and the concerns of corporate finance. The concepts developed in F
+ NCE 100 form the foundation for all elective finance courses. The main t
+ opics include: 1) the time value of money and capital budgeting techniqu
+ es\; 2) uncertainty and the trade-off between risk and return\; 3) secur
+ ity market efficiency\; 4) optimal capital structure\, and 5) dividend p
+ olicy decisions. During the Fall semester there are honors sections of F
+ NCE 100 offered. The seats in the honors sections are awarded through an
+  application process. Please go to: https://fnce.wharton.upenn.edu/progr
+ ams/course-applications for additional information. Corporate Finance is
+  a Core course and must be taken for a grade.
+LOCATION:JMHH G92
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200127T013531Z-1580088930780@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200120T120000
+DTEND:20200120T130000
+SUMMARY:FREN140305
+DESCRIPTION:French 140 is the second half of a two-semester intermediate 
+ sequence designed to help you attain a level of proficiency that should 
+ allow you to function comfortably in a French-speaking environment. You 
+ are expected to have already learned the most basic grammatical structur
+ es in elementary French and you will review these on your own in the cou
+ rse workbook. This course will build on your existing skills in French\,
+  increase your confidence and ability to read\, write\, speak and unders
+ tand French\, and introduce you to more refined lexical items\, more com
+ plex grammatical structures\, and more challenging cultural material. Th
+ is course focuses on the culture of French-speaking countries beyond the
+  borders of France. Along with your classmates\, you will explore the ci
+ ties of Dakar\, Fort-de-France and Marrakesh\, investigating the diversi
+ ty of the Francophone world through film\, literature and music. As in o
+ ther French courses at Penn\, class is conducted entirely in French. In 
+ addition to structured oral practice\, work in class will include freque
+ nt communicative activities such as problem-solving tasks\, discussions\
+ , and debates\, often carried out in pairs or small groups. Daily homewo
+ rk will require researching in the library and on the Internet\, listeni
+ ng practice with video clips\, in addition to regular written exercises 
+ in the workbook.
+LOCATION:CHEM 119
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200127T013532Z-1580088930781@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200121T120000
+DTEND:20200121T130000
+SUMMARY:FREN140305
+DESCRIPTION:French 140 is the second half of a two-semester intermediate 
+ sequence designed to help you attain a level of proficiency that should 
+ allow you to function comfortably in a French-speaking environment. You 
+ are expected to have already learned the most basic grammatical structur
+ es in elementary French and you will review these on your own in the cou
+ rse workbook. This course will build on your existing skills in French\,
+  increase your confidence and ability to read\, write\, speak and unders
+ tand French\, and introduce you to more refined lexical items\, more com
+ plex grammatical structures\, and more challenging cultural material. Th
+ is course focuses on the culture of French-speaking countries beyond the
+  borders of France. Along with your classmates\, you will explore the ci
+ ties of Dakar\, Fort-de-France and Marrakesh\, investigating the diversi
+ ty of the Francophone world through film\, literature and music. As in o
+ ther French courses at Penn\, class is conducted entirely in French. In 
+ addition to structured oral practice\, work in class will include freque
+ nt communicative activities such as problem-solving tasks\, discussions\
+ , and debates\, often carried out in pairs or small groups. Daily homewo
+ rk will require researching in the library and on the Internet\, listeni
+ ng practice with video clips\, in addition to regular written exercises 
+ in the workbook.
+LOCATION:CHEM 119
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200127T013533Z-1580088930782@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200115T120000
+DTEND:20200115T130000
+SUMMARY:FREN140305
+DESCRIPTION:French 140 is the second half of a two-semester intermediate 
+ sequence designed to help you attain a level of proficiency that should 
+ allow you to function comfortably in a French-speaking environment. You 
+ are expected to have already learned the most basic grammatical structur
+ es in elementary French and you will review these on your own in the cou
+ rse workbook. This course will build on your existing skills in French\,
+  increase your confidence and ability to read\, write\, speak and unders
+ tand French\, and introduce you to more refined lexical items\, more com
+ plex grammatical structures\, and more challenging cultural material. Th
+ is course focuses on the culture of French-speaking countries beyond the
+  borders of France. Along with your classmates\, you will explore the ci
+ ties of Dakar\, Fort-de-France and Marrakesh\, investigating the diversi
+ ty of the Francophone world through film\, literature and music. As in o
+ ther French courses at Penn\, class is conducted entirely in French. In 
+ addition to structured oral practice\, work in class will include freque
+ nt communicative activities such as problem-solving tasks\, discussions\
+ , and debates\, often carried out in pairs or small groups. Daily homewo
+ rk will require researching in the library and on the Internet\, listeni
+ ng practice with video clips\, in addition to regular written exercises 
+ in the workbook.
+LOCATION:CHEM 119
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200127T013534Z-1580088930783@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200116T120000
+DTEND:20200116T130000
+SUMMARY:FREN140305
+DESCRIPTION:French 140 is the second half of a two-semester intermediate 
+ sequence designed to help you attain a level of proficiency that should 
+ allow you to function comfortably in a French-speaking environment. You 
+ are expected to have already learned the most basic grammatical structur
+ es in elementary French and you will review these on your own in the cou
+ rse workbook. This course will build on your existing skills in French\,
+  increase your confidence and ability to read\, write\, speak and unders
+ tand French\, and introduce you to more refined lexical items\, more com
+ plex grammatical structures\, and more challenging cultural material. Th
+ is course focuses on the culture of French-speaking countries beyond the
+  borders of France. Along with your classmates\, you will explore the ci
+ ties of Dakar\, Fort-de-France and Marrakesh\, investigating the diversi
+ ty of the Francophone world through film\, literature and music. As in o
+ ther French courses at Penn\, class is conducted entirely in French. In 
+ addition to structured oral practice\, work in class will include freque
+ nt communicative activities such as problem-solving tasks\, discussions\
+ , and debates\, often carried out in pairs or small groups. Daily homewo
+ rk will require researching in the library and on the Internet\, listeni
+ ng practice with video clips\, in addition to regular written exercises 
+ in the workbook.
+LOCATION:CHEM 119
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200127T013535Z-1580088930784@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200121T133000
+DTEND:20200121T150000
+SUMMARY:MATH170002
+DESCRIPTION:Topics from among the following: logic\, sets\, calculus\, pr
+ obability\, history and philosophy of mathematics\, game theory\, geomet
+ ry\, and their relevance to contemporary science and society. Prerequisi
+ te: May also be counted toward the General Requirement in Natural Scienc
+ e & Mathematics.
+LOCATION:DRLB A1
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200127T013536Z-1580088930785@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200116T133000
+DTEND:20200116T150000
+SUMMARY:MATH170002
+DESCRIPTION:Topics from among the following: logic\, sets\, calculus\, pr
+ obability\, history and philosophy of mathematics\, game theory\, geomet
+ ry\, and their relevance to contemporary science and society. Prerequisi
+ te: May also be counted toward the General Requirement in Natural Scienc
+ e & Mathematics.
+LOCATION:DRLB A1
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200127T013537Z-1580088930786@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200117T090000
+DTEND:20200117T100000
+SUMMARY:MATH170214
+DESCRIPTION:Topics from among the following: logic\, sets\, calculus\, pr
+ obability\, history and philosophy of mathematics\, game theory\, geomet
+ ry\, and their relevance to contemporary science and society. Prerequisi
+ te: May also be counted toward the General Requirement in Natural Scienc
+ e & Mathematics.
+LOCATION:DRLB 4C8
+RRULE:FREQ=WEEKLY;WKST=FR;INTERVAL=1;UNTIL=20200429;BYDAY=FR
+UID:20200127T013538Z-1580088930787@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200121T090000
+DTEND:20200121T103000
+SUMMARY:OIDD290001
+DESCRIPTION:This course is an intensive introduction to various scientifi
+ c perspectives on the processes through which people make decisions. Per
+ spectives covered include cognitive psychology of human problem-solving\
+ , judgment and choice\, theories of rational judgment and decision\, and
+  the mathematical theory of games. Much of the material is technically r
+ igorous. Prior or current enrollment in STAT 101 or the equivalent\, alt
+ hough not required\, is strongly recommended.
+LOCATION:JMHH 250
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200127T013539Z-1580088930788@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200116T090000
+DTEND:20200116T103000
+SUMMARY:OIDD290001
+DESCRIPTION:This course is an intensive introduction to various scientifi
+ c perspectives on the processes through which people make decisions. Per
+ spectives covered include cognitive psychology of human problem-solving\
+ , judgment and choice\, theories of rational judgment and decision\, and
+  the mathematical theory of games. Much of the material is technically r
+ igorous. Prior or current enrollment in STAT 101 or the equivalent\, alt
+ hough not required\, is strongly recommended.
+LOCATION:JMHH 250
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200127T013540Z-1580088930788@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200120T103000
+DTEND:20200120T120000
+SUMMARY:STAT102002
+DESCRIPTION:Continuation of STAT 101. A thorough treatment of multiple re
+ gression\, model selection\, analysis of variance\, linear logistic regr
+ ession\; introduction to time series. Business applications.
+LOCATION:SHDH 351
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200127T013541Z-1580088930789@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200115T103000
+DTEND:20200115T120000
+SUMMARY:STAT102002
+DESCRIPTION:Continuation of STAT 101. A thorough treatment of multiple re
+ gression\, model selection\, analysis of variance\, linear logistic regr
+ ession\; introduction to time series. Business applications.
+LOCATION:SHDH 351
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200127T013542Z-1580088930790@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T013530Z
+DTSTART:20200115T133000
+DTEND:20200115T150000
+SUMMARY:WH  201034
+DESCRIPTION:The objective of WH 201 is to prepare you to communicate effe
+ ctively as you pursue your educational\, professional\, and personal goa
+ ls over the next few years. We have incorporated input from employers\, 
+ employees\, alumni and past WH 201 students to create a course that will
+  prepare you to succeed at all types of communication: spoken and writte
+ n\, formal and informal\, prepared and spontaneous. Communication is a s
+ kill that requires repeated practice to master. The class size is limite
+ d to eight students to allow you the opportunity to practice communicati
+ ng every week. Class will meet for 80 minutes once a week for fourteen w
+ eeks. Please note that we are piloting different approaches to teaching 
+ this year in different sections of the course. The logistical details of
+  some sections may differ from others\, but everyone will be taught the 
+ same material and complete the same assignments.
+LOCATION:SHDH 206
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200127T013543Z-1580088930791@fe80:0:0:0:250:56ff:feb4:e2e%2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <! -- The website was designed and developed by Estee Chen Yiwei. -->
+<head>
+<meta name = "author" content = "Estee (Yiwei) Chen">
+<meta name = "description" content = "This website helps Penn student generate a wallpaper for their class schedule. A lot of students like to generate class schedule as their wallpaper, but it is very troublesome to fill in the respective information manually on efficiency app. This app helps them automatically generates a pretty, sleek and functional wall-paper, helping them save time. Another interesting function is to calculate what is the highest occurring keyword in their courses descriptions, helping find the 'buzzword of the term'.">
+<meta name = "keywords" content = "university of pennsylvania, efficiency, tool, mini-tool, project, coding, mini-project, wallpaper, front-end, back-end, software development, internship">
+    
+<title>Automatic Schedule Wallpaper Generator for Penn Students</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600&display=swap" rel="stylesheet">
+/* styling basic labels */
+
+</style>
+</head>
+    
+<body>
+   <header class = "header1">
+    <div>
+        <h1 class = "slogan"> Automatic Schedule Wallpaper Generator for Penn Students
+       </h1>
+    </div>
+    </header>
+    
+    <section class = "section1">
+        <p class = "text"> Annoyed by how troublesome it is to input your course information into Weekly Schedule-making Apps like TimeSpread? Wanna generate a modern-lloking, functional schedule wallpaper that looks 10000 times better than the  PennInTouch version (at one click)? 
+        </p>
+        <p class = "text"> This is an automatic wallpaper generator for frustrated Penn students (and other schools' students, will explain how). To use, simply download your schedule as an .ics file (tutorial given below) and upload it here! We will generate a nice wallpaper for you!
+        </p>
+        
+        <div id = "index-rectangle-1"> </div>
+        <div> <p class = "text">  📱Select your Phone Type: </p><p style = "color: grey">  supports iphone X only now </p>
+            
+            
+            <select class = "select-button" name = "phone-type" form = "infoform">
+                <option value="iphonex"> iPhone X/XS </option>
+                <option value="iphone11"> iPhone 11</option>
+                <option value="iphone11Plus"> iPhone 11 Plus </option>
+                <option value="iphone 8 Plus ">iPhone 8 Plus</option>
+                <option value="Huawei P20 Pro">Huawei P20 Pro </option>
+            </select>
+
+            <form id = "infoform">
+                <div> <p class = "text"> 📅 Upload your schedule here: </p>
+                    <input type="file" name="schedule-file" class = "input-button">
+                    <input type = "submit" value = "SUBMIT" name = "submit" class = "done-button"/>  
+                </div>
+            </form>
+        
+    </section>
+    
+    <section class = "section2">
+        <h3 class = "small-head"> Tutorial for use: 
+        
+        </h3>
+        <p class = "text"> First step: Visit your "View Schedule" Page in PennInToch
+        </p>
+        <img> <!-- put tutorial steps -->
+        <p class = "text"> Second step: Click the blue "Export as .ics file" button and save it on your PC
+        </p>
+        <img> <!-- put tutorial steps -->
+        <p class = "text"> Third step: Upload it here and click "Done"
+        </p>
+        <img> <!-- put tutorial steps -->
+        
+    </section>
+    
+    
+    <footer class = "footer1">
+    <p class = "text" style = "color: white">© Developed by Estee (Yiwei) Chen </p>
+    </footer>
+    
+    
+    
+</body>    
+
+</html>
+    

@@ -1,0 +1,122 @@
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600&display=swap" rel="stylesheet">
+/* styling basic labels */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.slogan {
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 40px;
+    /* identical to box height, or 324% */
+    letter-spacing: 1.66667px;
+    color: #47484b;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.small-head {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.66667px;
+    color: #182F3F;
+}
+
+.text {
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: justify;
+    letter-spacing: 1px;
+    color: #47484b;
+}
+
+.header1 {
+    padding: 30px;
+    padding-bottom: 10px;
+    background-color: #F3FFBD;
+    
+}
+
+.section1 {
+    padding: 30px;
+    background-color: #B2DBBF;
+}
+
+.section2 {
+    padding: 30px;
+    background-color: #70C1B3;
+}
+
+.footer1 {
+    padding: 30px;
+    background-color: #247BA0;
+}
+
+.select-button {
+      background-color: #70C1A0; /* Green */
+      border: none;
+      border-radius:8px;
+      color: #70C1B3;
+      height: 40px;
+      width: 300px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      letter-spacing: 2px;
+      color: white;
+      font-family: Avenir;
+}
+
+.done-button {
+  background-color: #70C1A0; /* Green */
+  border: none;
+  border-radius:8px;
+  color: #70C1B3;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: white;
+  font-family: Avenir;
+}
+
+.input-button {
+      background-color: #70C1A0; /* Green */
+      border: none;
+      border-radius:8px;
+     
+      color: #70C1B3;
+      padding: 15px 10px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      letter-spacing: 2px;
+      color: white;
+      font-family: Avenir;
+}
+
+
+#index-rectangle-1 {
+    height: 2px;
+    
+    background-color: white;
+}

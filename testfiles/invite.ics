@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+PRODID:1580157527719
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200120T090000
+DTEND:20200120T100000
+SUMMARY:CIS 110001
+DESCRIPTION:Introduction to Computer Programming is the first course in o
+ ur series introducing students to computer science. In this class you wi
+ ll learn the fundamentals of computer programming in Java\, with emphasi
+ s on applications in science and engineering. You will also learn about 
+ the broader field of computer science and algorithmic thinking\, the fun
+ damental approach that computer scientists take to solving problems.
+LOCATION:MEYH B1
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200127T203847Z-1580157527720@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200115T090000
+DTEND:20200115T100000
+SUMMARY:CIS 110001
+DESCRIPTION:Introduction to Computer Programming is the first course in o
+ ur series introducing students to computer science. In this class you wi
+ ll learn the fundamentals of computer programming in Java\, with emphasi
+ s on applications in science and engineering. You will also learn about 
+ the broader field of computer science and algorithmic thinking\, the fun
+ damental approach that computer scientists take to solving problems.
+LOCATION:MEYH B1
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200127T203848Z-1580157527723@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200117T090000
+DTEND:20200117T100000
+SUMMARY:CIS 110001
+DESCRIPTION:Introduction to Computer Programming is the first course in o
+ ur series introducing students to computer science. In this class you wi
+ ll learn the fundamentals of computer programming in Java\, with emphasi
+ s on applications in science and engineering. You will also learn about 
+ the broader field of computer science and algorithmic thinking\, the fun
+ damental approach that computer scientists take to solving problems.
+LOCATION:MEYH B1
+RRULE:FREQ=WEEKLY;WKST=FR;INTERVAL=1;UNTIL=20200429;BYDAY=FR
+UID:20200127T203849Z-1580157527724@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200121T120000
+DTEND:20200121T130000
+SUMMARY:CIS 110215
+DESCRIPTION:Introduction to Computer Programming is the first course in o
+ ur series introducing students to computer science. In this class you wi
+ ll learn the fundamentals of computer programming in Java\, with emphasi
+ s on applications in science and engineering. You will also learn about 
+ the broader field of computer science and algorithmic thinking\, the fun
+ damental approach that computer scientists take to solving problems.
+LOCATION:TOWN 307
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200127T203850Z-1580157527725@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200121T170000
+DTEND:20200121T200000
+SUMMARY:DSGN264406
+DESCRIPTION:This course is an introduction to the fundamental perception\
+ , representation\, aesthetics\, and design that shape today's visual cul
+ ture. It addresses the way artists and designers create images\; design 
+ with analog and digital tools\; communicate\, exchange\, and express mea
+ ning over a broad range of media\; and find their voices within the fabr
+ ic of contemporary art\, design\, and visual culture. Emphasis is placed
+  on building an extended form of visual literacy by studying and making 
+ images using a variety of representation techniques\; learning to organi
+ ze and structure two-dimensional and three-dimensional space\, and desig
+ ning with time-based and procedural media. Students learn to develop an 
+ individual style of idea-generation\, experimentation\, iteration\, and 
+ critique as part of their creative and critical responses to visual cult
+ ure. If you need assistance registering for a closed section\, please em
+ ail the department at fnarug@design.upenn.edu
+LOCATION:ADDM 20
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200127T203851Z-1580157527726@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200116T170000
+DTEND:20200116T200000
+SUMMARY:DSGN264406
+DESCRIPTION:This course is an introduction to the fundamental perception\
+ , representation\, aesthetics\, and design that shape today's visual cul
+ ture. It addresses the way artists and designers create images\; design 
+ with analog and digital tools\; communicate\, exchange\, and express mea
+ ning over a broad range of media\; and find their voices within the fabr
+ ic of contemporary art\, design\, and visual culture. Emphasis is placed
+  on building an extended form of visual literacy by studying and making 
+ images using a variety of representation techniques\; learning to organi
+ ze and structure two-dimensional and three-dimensional space\, and desig
+ ning with time-based and procedural media. Students learn to develop an 
+ individual style of idea-generation\, experimentation\, iteration\, and 
+ critique as part of their creative and critical responses to visual cult
+ ure. If you need assistance registering for a closed section\, please em
+ ail the department at fnarug@design.upenn.edu
+LOCATION:ADDM 20
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200127T203852Z-1580157527727@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200120T103000
+DTEND:20200120T120000
+SUMMARY:MGMT101002
+DESCRIPTION:We all spend much of our lives in organizations. Most of us a
+ re born in organizations\, educated in organizations\, and work in organ
+ izations. Organizations emerge because individuals can't (or don't want 
+ to) accomplish their goals alone. Management is the art and science of h
+ elping individuals achieve their goals together. Managers in an organiza
+ tion determine where their organization is going and how it gets there. 
+ More formally\, managers formulate strategies and implement those strate
+ gies. This course provides a framework for understanding the opportuniti
+ es and challenges involved in formulating and implementing strategies by
+  taking a "system" view of organizations\,which means that we examine mu
+ ltiple aspects of how managers address their environments\, strategy\, s
+ tructure\, culture\, tasks\, people\, and outputs\, and how managerial d
+ ecisions made in these various domains interrelate. The course will help
+  you to understand and analyze how managers can formulate and implement 
+ strategies effectively. It will be particularly valuable if you are inte
+ rested in management consulting\, investment analysis\, or entrepreneurs
+ hip - but it will help you to better understand and be a more effective 
+ contributor to any organizations you join\, whether they are large\, est
+ ablished firms or startups. This course must be taken for a grade.
+LOCATION:SHDH 350
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200127T203853Z-1580157527728@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200121T103000
+DTEND:20200121T120000
+SUMMARY:MGMT101202
+DESCRIPTION:We all spend much of our lives in organizations. Most of us a
+ re born in organizations\, educated in organizations\, and work in organ
+ izations. Organizations emerge because individuals can't (or don't want 
+ to) accomplish their goals alone. Management is the art and science of h
+ elping individuals achieve their goals together. Managers in an organiza
+ tion determine where their organization is going and how it gets there. 
+ More formally\, managers formulate strategies and implement those strate
+ gies. This course provides a framework for understanding the opportuniti
+ es and challenges involved in formulating and implementing strategies by
+  taking a "system" view of organizations\,which means that we examine mu
+ ltiple aspects of how managers address their environments\, strategy\, s
+ tructure\, culture\, tasks\, people\, and outputs\, and how managerial d
+ ecisions made in these various domains interrelate. The course will help
+  you to understand and analyze how managers can formulate and implement 
+ strategies effectively. It will be particularly valuable if you are inte
+ rested in management consulting\, investment analysis\, or entrepreneurs
+ hip - but it will help you to better understand and be a more effective 
+ contributor to any organizations you join\, whether they are large\, est
+ ablished firms or startups. This course must be taken for a grade.
+LOCATION:JMHH G86
+RRULE:FREQ=WEEKLY;WKST=TU;INTERVAL=1;UNTIL=20200429;BYDAY=TU
+UID:20200127T203854Z-1580157527729@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200120T133000
+DTEND:20200120T150000
+SUMMARY:MGMT264001
+DESCRIPTION:This course focuses on venture capital management issues in t
+ he context of a high-growth potential start-up company. The course is mo
+ tivated by rapid increases in both the supply of and demand for private 
+ equity over the past two decades. The topic is addressed from two distin
+ ct perspectives: issues that relate to the demand for private equity and
+  venture capital (the entrepreneur's perspective) on the one hand\, and 
+ issues that relate to the supply of capital (the investor's perspective)
+  on the other. As well\, we will address management issues that relate t
+ o how the VC and the entrepreneur work together once an investment has b
+ een made\, compensation issues\, and governance issues in the privately 
+ held venture capital backed company. Format: Case/discussion format\, su
+ pplemented by lectures and guest speakers.
+LOCATION:SHDH 211
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=1;UNTIL=20200429;BYDAY=MO
+UID:20200127T203855Z-1580157527730@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200115T133000
+DTEND:20200115T150000
+SUMMARY:MGMT264001
+DESCRIPTION:This course focuses on venture capital management issues in t
+ he context of a high-growth potential start-up company. The course is mo
+ tivated by rapid increases in both the supply of and demand for private 
+ equity over the past two decades. The topic is addressed from two distin
+ ct perspectives: issues that relate to the demand for private equity and
+  venture capital (the entrepreneur's perspective) on the one hand\, and 
+ issues that relate to the supply of capital (the investor's perspective)
+  on the other. As well\, we will address management issues that relate t
+ o how the VC and the entrepreneur work together once an investment has b
+ een made\, compensation issues\, and governance issues in the privately 
+ held venture capital backed company. Format: Case/discussion format\, su
+ pplemented by lectures and guest speakers.
+LOCATION:SHDH 211
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200127T203856Z-1580157527731@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200115T150000
+DTEND:20200115T180000
+SUMMARY:MKTG476403
+DESCRIPTION:This course will expose students to the theoretical and empir
+ ical "building blocks" that will allow them to construct\, estimate\, an
+ d interpret powerful models of consumer behavior. Over the years\, resea
+ rchers and practitioners have used these models for a wide variety of ap
+ plications\, such as new product sales\, forecasting\, analyses of media
+  usage\, and targeted marketing programs. Other disciplines have seen eq
+ ually broad utilization of these techniques. The course will be entirely
+  lecture-based with a strong emphasis on real-time problem solving. Most
+  sessions will feature sophisticated numerical investigations using Micr
+ osoft Excel. Much of the material is highly technical.
+LOCATION:JMHH 270
+RRULE:FREQ=WEEKLY;WKST=WE;INTERVAL=1;UNTIL=20200429;BYDAY=WE
+UID:20200127T203857Z-1580157527732@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200127T203847Z
+DTSTART:20200116T150000
+DTEND:20200116T163000
+SUMMARY:WH  201050
+DESCRIPTION:The objective of WH 201 is to prepare you to communicate effe
+ ctively as you pursue your educational\, professional\, and personal goa
+ ls over the next few years. We have incorporated input from employers\, 
+ employees\, alumni and past WH 201 students to create a course that will
+  prepare you to succeed at all types of communication: spoken and writte
+ n\, formal and informal\, prepared and spontaneous. Communication is a s
+ kill that requires repeated practice to master. The class size is limite
+ d to eight students to allow you the opportunity to practice communicati
+ ng every week. Class will meet for 80 minutes once a week for fourteen w
+ eeks. Please note that we are piloting different approaches to teaching 
+ this year in different sections of the course. The logistical details of
+  some sections may differ from others\, but everyone will be taught the 
+ same material and complete the same assignments.
+LOCATION:SHDH 204A
+RRULE:FREQ=WEEKLY;WKST=TH;INTERVAL=1;UNTIL=20200429;BYDAY=TH
+UID:20200127T203858Z-1580157527732@fe80:0:0:0:250:56ff:feb4:e40%2
+END:VEVENT
+END:VCALENDAR
